@@ -1,0 +1,16 @@
+{
+    "slides": [
+        {
+            "src": "/images/desktop-image-hero-1.jpg",
+            "alt": "slide 1"
+        },
+        {
+            "src": "/images/desktop-image-hero-2.jpg",
+            "alt": "slide 2"
+        },
+        {
+            "src": "/images/desktop-image-hero-3.jpg",
+            "alt": "slide 3"
+        }
+    ]
+}
